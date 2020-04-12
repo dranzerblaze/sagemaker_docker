@@ -1,0 +1,5 @@
+Exception during training: name 'input_files' is not defined
+Traceback (most recent call last):
+  File "train", line 54, in train
+    if len(input_files) == 0:
+NameError: name 'input_files' is not defined
